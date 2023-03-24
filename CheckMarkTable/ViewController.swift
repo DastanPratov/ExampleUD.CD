@@ -140,6 +140,8 @@ class ViewController: UIViewController {
     
     }
     
+    var aidar = "ne gey"
+    
     private func addNewTitleAlert() {
         colorDetail.isHidden = true
         colorRed.isHidden = true
